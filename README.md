@@ -5,7 +5,7 @@
 # 🌌 Awesome Astrology Computing & Cultural Heritage Software 🔭
 
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Astrology-Computing-Cultural-Heritage-Software?style=social)](https://github.com/ishandutta2007/Awesome-Astrology-Computing-Cultural-Heritage-Software/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Astrology-Computing-Cultural-Heritage-Software?style=social)](https://github.com/ishandutta2007/Awesome-Astrology-Computing-Cultural-Heritage-Software/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Astrology-Computing-Cultural-Heritage-Software?style=social)](https://github.com/ishandutta2007/Awesome-Astrology-Computing-Cultural-Heritage-Software/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -76,9 +76,9 @@ The sector is **moderately to highly fragmented** rather than a winner-take-all 
 > [!TIP]
 > The table below showcases vetted, active open-source repositories for astronomical calculation, astrological charting, ephemeris engines, and cultural calendar software. 
 > 
-> **Sorted in descending order by GitHub Stars ⭐**. Each star badge links directly to that repository's Stargazers page.
+> **Sorted in descending order by GitHub_Stars ⭐**. Each Stars_Badge links directly to that repository's Stargazers page.
 
-| Project / Library | Primary Focus & Capabilities | GitHub Stars (Desc) | Primary Language / Stack |
+| Project / Library | Primary Focus & Capabilities | GitHub_Stars (Desc) | Primary Language / Stack |
 | :--- | :--- | :---: | :--- |
 | **[Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu)** | Open-source computational Purple Star Astrology (Zi Wei Dou Shu) chart calculation engine based on traditional Chinese metaphysics (*Tianji* / Ni Haixia tradition), with full star placements, four transformations (Si Hua), and ancient corpus datasets. | [![Stars](https://img.shields.io/github/stars/Renhuai123/ziwei-doushu?style=social&color=white)](https://github.com/Renhuai123/ziwei-doushu/stargazers) | TypeScript / Python |
 | **[Stellarium](https://github.com/Stellarium/stellarium)** | World-renowned open-source desktop planetarium and cultural astronomy simulation software rendering photorealistic skies in real-time, featuring 40+ historical sky cultures (Babylonian, Chinese, Hindu, Norse, Maya, Egyptian) and archaeoastronomical alignment tools. | [![Stars](https://img.shields.io/github/stars/Stellarium/stellarium?style=social&color=white)](https://github.com/Stellarium/stellarium/stargazers) | C++ / OpenGL / Qt |
@@ -122,7 +122,7 @@ Contributions are warmly encouraged! Help us keep this index authoritative and u
 1. **Fork the repository** to your personal GitHub account. 🍴
 2. **Add or update entries** in `README.md` following the established table structure:
    - For SaaS products: include official URL, company valuation/revenue tier, specific starting price, and explicit free plan limits.
-   - For Open-Source projects: provide the repository link, star count badge linked to stargazers, concise description, and tech stack.
+   - For Open-Source projects: provide the repository link, Stars_Count badge linked to stargazers, concise description, and tech stack.
 3. **Verify ephemeris accuracy** and official project sources before submitting.
 4. **Submit a clean Pull Request (PR)** with a concise summary of your addition. ✨
 
